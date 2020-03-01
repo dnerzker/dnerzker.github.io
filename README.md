@@ -9,4 +9,4 @@ Ketertarikan utama saya adalah segala sesuatu yang berhubungan dengan security. 
 Ketika sedang merasa cukup bosan, ada 2 hal yang seringkali saya lakukan. Pertama, mengerjakan projek iseng untuk saya pribadi dan yang kedua adalah mengikuti program bug bounty. Namun yang lebih sering saya lakukan adalah opsi yang kedua. Cukup membantu sebagai terapi jika kamu merasa jenuh dengan sesuatu yang sudah sering kamu lakukan, contohnya adalah bekerja.
 
 
-# *Pentesting ~> dnerzker@protonmail.ch*
+# *Pentesting ~> dnerzker@protonmail.ch
