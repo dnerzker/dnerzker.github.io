@@ -6,3 +6,5 @@ Ketika sedang merasa cukup bosan, ada 2 hal yang seringkali saya lakukan. Pertam
 
 ```bash
 # dnerzker.github.io
+```
+~> dnerzker@protonmail.ch
