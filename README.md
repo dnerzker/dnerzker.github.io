@@ -10,3 +10,5 @@ Ketika sedang merasa cukup bosan, ada 2 hal yang seringkali saya lakukan. Pertam
 
 
 # *Pentesting ~> dnerzker@protonmail.ch
+
+(https://dnerzker.github.io/dnrz2.html)
